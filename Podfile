@@ -7,5 +7,4 @@ target 'MemoryCardGame' do
 
   pod 'SwiftyJSON'
   pod 'Alamofire'
-  pod 'AlamofireImage'
 end
